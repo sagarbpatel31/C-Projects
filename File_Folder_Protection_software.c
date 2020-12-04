@@ -60,11 +60,11 @@ textcolor(2);
 
 gotoxy(22,12);
 
-cprintf(" 1 : HIDE A FILE / FOLDER ");
+cprintf(" 1 : HIDE A SPECIFIC FILE / FOLDER ");
 
 gotoxy(22,14);
 
-cprintf(" 2 : SHOW A FILE / FOLDER ");
+cprintf(" 2 : SHOW A SPECIFIC FILE / FOLDER ");
 
 gotoxy(22,16);
 
